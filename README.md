@@ -1,4 +1,4 @@
-Description du projet :
+<h1>Description du projet :
 Notre projet est une application web développée en HTML, CSS et JavaScript, qui utilise la bibliothèque Chart.js pour générer des graphiques interactifs. L'objectif principal de l'application est de permettre aux utilisateurs de visualiser les données historiques des indicateurs éducatifs au Maroc sous forme de graphiques.
 Fonctionnalités clés :
 Chargement des données : Les données sont chargées à partir d'un fichier JSON hébergé sur GitHub. L'application utilise jQuery pour effectuer une requête AJAX et récupérer les données.
