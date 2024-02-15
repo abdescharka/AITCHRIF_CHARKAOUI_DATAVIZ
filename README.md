@@ -7,3 +7,4 @@ Choix du type de graphique : Les utilisateurs peuvent choisir parmi plusieurs ty
 Filtrage par plage d'années : Les utilisateurs peuvent sélectionner une plage d'années à afficher sur le graphique à l'aide d'un curseur de plage d'années.<br>
 Interactivité : L'application offre une interactivité avec les graphiques. Lorsque l'utilisateur survole le graphique, les coordonnées correspondantes (année et valeur) sont affichées dans un div à côté du graphique.<br>
 Personnalisation : Les graphiques sont personnalisables avec des animations et des couleurs aléatoires pour chaque ensemble de données.<br>
+<img   src=
