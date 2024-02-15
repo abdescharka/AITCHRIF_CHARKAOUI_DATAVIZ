@@ -1,3 +1,4 @@
+<img   src="https://github.com/abdescharka/AITCHRIF_CHARKAOUI_DATAVIZ/blob/main/extrait_visualisation.png">
 <h1>Description du projet :</h1>
 <Font size=13>Notre projet est une application web développée en HTML, CSS et JavaScript, qui utilise la bibliothèque Chart.js pour générer des graphiques interactifs. L'objectif principal de l'application est de permettre aux utilisateurs de visualiser les données historiques des indicateurs éducatifs au Maroc sous forme de graphiques.<br>
 Fonctionnalités clés :<br>
@@ -7,4 +8,4 @@ Choix du type de graphique : Les utilisateurs peuvent choisir parmi plusieurs ty
 Filtrage par plage d'années : Les utilisateurs peuvent sélectionner une plage d'années à afficher sur le graphique à l'aide d'un curseur de plage d'années.<br>
 Interactivité : L'application offre une interactivité avec les graphiques. Lorsque l'utilisateur survole le graphique, les coordonnées correspondantes (année et valeur) sont affichées dans un div à côté du graphique.<br>
 Personnalisation : Les graphiques sont personnalisables avec des animations et des couleurs aléatoires pour chaque ensemble de données.<br>
-<img   src="https://github.com/abdescharka/AITCHRIF_CHARKAOUI_DATAVIZ/blob/main/extrait_visualisation.png">
+
